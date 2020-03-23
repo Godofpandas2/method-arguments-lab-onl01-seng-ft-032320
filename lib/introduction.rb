@@ -1,5 +1,5 @@
-def formal_introduction (first, last)
+def introduction (first, last)
   puts "Greetings #{first}, I hear you are from the #{last} family"
 end
 
-formal_introduction("David", "Hutchison")
+introduction("David", "Hutchison")
