@@ -1,5 +1,5 @@
-def introduction (first, last)
-  puts "Greetings #{first}, I hear you are from the #{last} family"
+def introduction (name)
+  puts "Hi, my name is #{name}"
 end
 
-introduction("David", "Hutchison")
+introduction("David")
